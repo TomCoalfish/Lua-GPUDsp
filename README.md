@@ -1,14 +1,11 @@
 # Lua-GPUDSP
 GPU Dsp
 
-* cuSignal
-* MatX
 
 # Algorithms
+* DFT
+* DCT
+* FFT
 * Fir Filter
 * Convolution
 * Correlation
-* Peak Finding
-* Spectral Analysis
-* Matrix
-* Tensor
