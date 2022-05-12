@@ -1,0 +1,48 @@
+[submodule "VkFFT"]
+	path = VkFFT
+	url = https://github.com/DTolm/VkFFT
+[submodule "CUDA-FFT-Convolution"]
+	path = CUDA-FFT-Convolution
+	url = https://github.com/chrischoy/CUDA-FFT-Convolution
+[submodule "cufftShift"]
+	path = cufftShift
+	url = https://github.com/marwan-abdellah/cufftShift
+[submodule "CudaFFT"]
+	path = CudaFFT
+	url = https://github.com/ameyand98/CudaFFT
+[submodule "Cooley_Tukey_FFT_Algorithm_C"]
+	path = Cooley_Tukey_FFT_Algorithm_C
+	url = https://github.com/tonybeeth/Cooley_Tukey_FFT_Algorithm_C
+[submodule "Cuda_Audio_FFT"]
+	path = Cuda_Audio_FFT
+	url = https://github.com/shauryajai/Cuda_Audio_FFT
+[submodule "cuda_conv_fft"]
+	path = cuda_conv_fft
+	url = https://github.com/wjkcow/cuda_conv_fft
+[submodule "cuda-fft-convolution"]
+	path = cuda-fft-convolution
+	url = https://github.com/kiliakis/cuda-fft-convolution
+[submodule "cufft_examples"]
+	path = cufft_examples
+	url = https://github.com/mnicely/cufft_examples
+[submodule "cuFFTAdvisor"]
+	path = cuFFTAdvisor
+	url = https://github.com/HiPerCoRe/cuFFTAdvisor
+[submodule "CUFFT"]
+	path = CUFFT
+	url = https://github.com/AdnanEghtesad/CUFFT
+[submodule "cuda_correlation"]
+	path = cuda_correlation
+	url = https://github.com/sergebb/cuda_correlation
+[submodule "fxcorr"]
+	path = fxcorr
+	url = https://github.com/pafluxa/fxcorr
+[submodule "Signal_Autocorrelation"]
+	path = Signal_Autocorrelation
+	url = https://github.com/WSchiller/Signal_Autocorrelation
+[submodule "CUDA-Pitch-Detector"]
+	path = CUDA-Pitch-Detector
+	url = https://github.com/getrod/CUDA-Pitch-Detector
+[submodule "Phase-Vocoder"]
+	path = Phase-Vocoder
+	url = https://github.com/davispolito/Phase-Vocoder
