@@ -11,3 +11,4 @@ GPU Dsp
 * Peak Finding
 * Spectral Analysis
 * Matrix
+* Tensor
