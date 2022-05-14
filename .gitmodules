@@ -46,3 +46,15 @@
 [submodule "Phase-Vocoder"]
 	path = Phase-Vocoder
 	url = https://github.com/davispolito/Phase-Vocoder
+[submodule "dsp-with-cuda"]
+	path = dsp-with-cuda
+	url = https://github.com/brandon-t-nguyen/dsp-with-cuda
+[submodule "cusp"]
+	path = cusp
+	url = https://github.com/gnuradio/cusp
+[submodule "cuda"]
+	path = cuda
+	url = https://github.com/jopago/cuda
+[submodule "cuda_fir"]
+	path = cuda_fir
+	url = https://github.com/tylerjw/cuda_fir
