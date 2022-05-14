@@ -10,5 +10,8 @@ GPU Dsp
 * Convolution
 * Correlation
 
-# Todo
-* Wrap/Compile/Test
+# Cuda
+* cuSignal
+* MatX
+* Cutlass
+
