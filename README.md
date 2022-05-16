@@ -13,6 +13,9 @@ GPU Dsp
 * You want it all on the GPU and never interrupt it with the host
 * Not easy at all as the GPU is very complicated 
 
+# There are alot of things you can't do in GPU at all really
+* There is some theory of the matrix math but it is not general
+* I don't understand it at all
 
 # Algorithms
 * DFT
