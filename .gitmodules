@@ -58,3 +58,12 @@
 [submodule "cuda_fir"]
 	path = cuda_fir
 	url = https://github.com/tylerjw/cuda_fir
+[submodule "cuda-audio"]
+	path = cuda-audio
+	url = https://github.com/limitz/cuda-audio
+[submodule "Audio_FIR_Cuda"]
+	path = Audio_FIR_Cuda
+	url = https://github.com/boczekbartek/Audio_FIR_Cuda
+[submodule "cusignal"]
+	path = cusignal
+	url = https://github.com/rapidsai/cusignal
