@@ -14,6 +14,8 @@ GPU Dsp
 * Not easy at all as the GPU is very complicated 
 
 # There are alot of things you can't do in GPU at all really
+* The algorithm is sequential and recursive and there is no way to make it parallel
+* IIR filters and all kinds of filters that are like that
 * There is some theory of the matrix math but it is not general
 * I don't understand it at all
 
