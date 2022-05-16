@@ -1,13 +1,13 @@
 # Lua-GPUDSP
 GPU Dsp
 
-# Notes
-* GPU not always necessarily faster
-* If you have lots of files or big files
-* Then you want to use the GPU
-
-# So it's useful
-* To have them on the GPU
+# It's not really necessary
+* So I collected it here mostly as it is something you can do
+* And think about it
+* I wanted to write my neural network into Cuda using Cutlass
+* And to use cudnn-frontend to compute the cnn/rnn stuff 
+* I might do it but I don't really use neural network for anythign other than ideas
+* I would rather have the math and algorithm than use it
 
 
 # Algorithms
