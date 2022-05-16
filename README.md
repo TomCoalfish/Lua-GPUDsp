@@ -6,6 +6,10 @@ GPU Dsp
 * If you have lots of files or big files
 * Then you want to use the GPU
 
+# So it's useful
+* To have them on the GPU
+
+
 # Algorithms
 * DFT
 * DCT
