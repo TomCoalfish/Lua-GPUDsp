@@ -11,5 +11,5 @@ GPU Dsp
 * Autocorrelation
 * Deconvolution
 * STFT/Phase Vocoder
-* FIR Filter
+* FIR Filter 
 
