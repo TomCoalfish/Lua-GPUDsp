@@ -1,10 +1,6 @@
 # Lua-GPUDSP
 GPU Dsp
 
-# MxNET C++
-* MShadow Matrix
-* NDArray
-
 # Algorithms
 * DFT
 * DCT
